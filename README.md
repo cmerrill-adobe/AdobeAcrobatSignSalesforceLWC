@@ -1,5 +1,5 @@
 # AdobeAcrobatSignSalesforceLWC
-An open-source replacement for the Adobe Acrobat Sign Lightning component for salesforce.
+An open-source alternative for the Adobe Acrobat Sign Lightning component for salesforce. The purpose of this LWC is to provide a base for more advanced customization. It does require the Adobe Sign Appexchange package: https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016ZmCEAU&tab=e. There are no other prerequisites. 
 
 Unmanaged Package install links:
 
